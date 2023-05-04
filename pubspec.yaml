@@ -1,6 +1,6 @@
 name: rhythm_files
 description: A Flutter package that provides a simple and easy-to-use file picker with a built-in UI.
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/CodemonkHQ/rhythm_files
 
 environment:

@@ -21,19 +21,19 @@ This package is designed to work for both Android and iOS platforms.
 - File compressor for compressing image and video files with quality controls.
 - Image cropper for cropping of image files.
 
-| <img src="https://github.com/CodemonkHQ/rhythm_files/blob/main/example/screenshot_1.png" alt="Screenshot 1" width="600"/> |
+| <img src="https://github.com/CodemonkHQ/rhythm_files/raw/main/example/screenshot_1.png" alt="Screenshot 1" width="600"/> |
 | -------------------------------------------------------------------- |
 Dashboard to pick files from files, camera, gallery and link
 
-| <img src="https://github.com/CodemonkHQ/rhythm_files/blob/main/example/screenshot_2.png" alt="Screenshot 2" width="600"/> |
+| <img src="https://github.com/CodemonkHQ/rhythm_files/raw/main/example/screenshot_2.png" alt="Screenshot 2" width="600"/> |
 | -------------------------------------------------------------------- |
 Dashboard in dark mode
 
-| <img src="https://github.com/CodemonkHQ/rhythm_files/blob/main/example/screenshot_3.png" alt="Screenshot 3" width="600"/> |
+| <img src="https://github.com/CodemonkHQ/rhythm_files/raw/main/example/screenshot_3.png" alt="Screenshot 3" width="600"/> |
 | -------------------------------------------------------------------- |
 Single file added
 
-| <img src="https://github.com/CodemonkHQ/rhythm_files/blob/main/example/screenshot_4.png" alt="Screenshot 4" width="600"/> |
+| <img src="https://github.com/CodemonkHQ/rhythm_files/raw/main/example/screenshot_4.png" alt="Screenshot 4" width="600"/> |
 | -------------------------------------------------------------------- |
 Multiple files added
 
